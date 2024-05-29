@@ -66,8 +66,8 @@ Designing a DevOps internship program for four months involves structuring a cur
 
 #### **Month 3: Real-Time Project**
 - **Week 9-12: Project Assignment**
-  - Interns are assigned to real-time corporate projects.
-  - Working under the guidance of mentors/senior engineers.
+  - Interns are assigned to projects.
+  - Working under the guidance of mentor.
   - Applying learned skills
 
 #### **Month 4: Advanced Topics and Project Completion**
