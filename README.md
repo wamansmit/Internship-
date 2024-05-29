@@ -7,7 +7,6 @@ Designing a DevOps internship program for four months involves structuring a cur
 
 #### **Tools & Communication Platforms:**
 1. **Project Management and Tracking:**
-   - **JIRA** or **Trello**: For task management and tracking progress.
 2. **Communication:**
    - **Microsoft Teams**: For daily communication and collaboration.
    - **WhatsApp**: For quick updates and urgent communication.
